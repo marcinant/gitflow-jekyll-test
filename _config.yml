@@ -28,4 +28,4 @@ github_username:  jekyll
 markdown: kramdown
 theme: minima
 
-keep_files: [main.css, assets]
+# keep_files: [main.css, assets]
